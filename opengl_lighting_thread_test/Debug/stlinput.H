@@ -1,0 +1,1 @@
+void stlinput(char filenamet[20],GLuint file);
